@@ -1,0 +1,51 @@
+= MEGADOG: RECLAIMING THE NAME
+:description: An exposé on modern frauds to protect the legacy of the original UK organisation.
+
+**Important Notice:** This document is not an endorsement of any "Megadog" product. It is a guide to help users identify and avoid scams that have co-opted a name originally associated with legitimate British culture. This is an effort to clear the air and bring the good name of the original **Megadog** back to its rightful place.
+
+---
+
+While there is no single, world-famous "Megadog" scam like a Ponzi scheme of the scale of Bitconnect, the name appears in several modern contexts where people frequently report being defrauded.
+
+== 1. The Mobile App & In-Game Purchase Trap
+
+This is perhaps the most common modern "Megadog" con. These apps (often appearing as "Mega Dog Merge" or "Lucky Dog") are designed as advance-fee scams.
+
+* **The Bait:** Users are promised real-world cash (e.g., PayPal credits) for merging dogs and reaching high levels.
+* **The "Pay-to-Withdraw" Scam:** Once a user reaches a withdrawal threshold (often £100 or more), the app demands a "gas fee", "account verification fee", or a "VIP pass" purchase to release the funds.
+* **The Outcome:** After the user pays, the withdrawal remains "pending" indefinitely, or the app disappears entirely. These are predatory "poverty traps" designed to harvest small payments and advert revenue from thousands of users.
+
+== 2. The Roblox "Mega Dog" Scam
+
+In the popular game *Adopt Me!*, a **Mega Neon Dog** (often called a "Mega Dog") is a high-value pet. Because of its rarity, scammers often target younger players:
+
+* **The Switch Scam:** A scammer offers a Mega Dog for trade. At the last second, they switch it for a regular Neon Dog, hoping the other player doesn't notice before clicking "Accept."
+* **Trust Trades:** Scammers convince players to "gift" them items first to prove they are trustworthy, promising the Mega Dog in return, only to leave the server immediately.
+
+== 3. Crypto and Telegram "Clicker" Games
+
+Several Telegram bots and "click-to-earn" games use variations of the name Mega Dog or MegaDoge.
+
+The Mechanism:: These apps promise users cryptocurrency (such as TON or SOL) for clicking a button or referring friends.
+The Scam:: Users are eventually asked to pay "transaction fees" to move their fake earnings into a real wallet. No crypto is ever actually delivered.
+
+== 4. The "Skins" T-Shirt (Fake Merch Sites)
+
+"Megadog" is the name of a famous T-shirt worn by the character Sid in the British TV show *Skins*.
+
+* Because the original shirt is a collector’s item, many unauthorised websites claim to sell "authentic" replicas.
+* Users have reported ordering these shirts from social media adverts only to receive nothing or a poor-quality item from a site that then disappears with their payment details.
+
+== 5. High-Yield Investment Programmes (HYIPs)
+
+Various short-lived websites (e.g., `MegaDog.io`) claim to be "dogecoin mining" or "investment" platforms. These usually operate as Ponzi schemes, paying out early investors with money from new ones until the owners vanish.
+
+---
+
+[IMPORTANT]
+.The Original (Legitimate) Megadog
+====
+It is vital to distinguish these scams from the **legitimate Megadog**. In the 1990s, **Megadog** was a world-famous and highly respected UK rave and club organisation. It was a cornerstone of British electronic music history. 
+
+If you encounter old posters, vinyl records, or historical archives related to the 90s rave scene, these are **genuine** and have no connection to the modern internet scams described above. This documentation serves to ensure their legacy is not tarnished by modern fraudsters.
+====
