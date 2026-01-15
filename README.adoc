@@ -1,10 +1,10 @@
 = MegaDog
 
-image:https://img.shields.io/badge/License-MPL_2.0-blue.svg[MPL-2.0,link="https://opensource.org/licenses/MPL-2.0"]
-image:https://img.shields.io/badge/Philosophy-Palimpsest-purple.svg[Palimpsest,link="https://github.com/hyperpolymath/palimpsest-licence"]
+image:[MPL-2.0,link="https://opensource.org/licenses/MPL-2.0"]
+image:[Palimpsest,link="https://github.com/hyperpolymath/palimpsest-licence"]
 
 
-*Ethical merge game with Mandelbrot dogtags - no scams, just math.*
+*Ethical merge game with Mandelbrot dogtags - no scams, just maths.*
 
 [![RSR Compliant](https://img.shields.io/badge/RSR-Compliant-gold)](./MANIFESTO.md)
 
