@@ -1,7 +1,7 @@
 = MegaDog
 
 image:[MPL-2.0,link="https://opensource.org/licenses/MPL-2.0"]
-image:[Palimpsest,link="https://github.com/hyperpolymath/palimpsest-licence"]
+image:[Palimpsest,link="https://github.com/hyperpolymath/palimpsest-license"]
 
 
 *Ethical merge game with Mandelbrot dogtags - no scams, just maths.*
